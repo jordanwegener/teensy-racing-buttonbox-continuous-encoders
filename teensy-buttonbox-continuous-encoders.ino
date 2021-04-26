@@ -1,6 +1,7 @@
 // Teensy LC Button Box
 
 #include <Encoder.h>
+#include <ClickEncoder.h>
 
 Encoder rotary1(2, 3);
 Encoder rotary2(5, 6);
